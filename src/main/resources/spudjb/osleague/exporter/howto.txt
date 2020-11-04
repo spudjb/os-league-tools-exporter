@@ -1,0 +1,10 @@
+<html>
+How to use:<br>
+<br>
+1. Open the leagues interface in game, and ensure no filter is active (all tasks are visible)<br>
+2. Click the "osleague.tools export" button below to copy your task code to clipboard<br>
+3. Open https://www.osleague.tools in your webbrowser. If you've never used the website before, mark one task as completed<br>
+4. Open the browser developer console<br>
+5. Paste in the code from your clipboard
+<br>
+</html>
